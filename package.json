@@ -1,0 +1,21 @@
+{
+    "name": "typings-env-frida",
+    "version": "0.1.0",
+    "description": "Typescript typings for Frida JavaScript API",
+    "main": "index.js",
+    "scripts": {
+
+    },
+    "repository": {
+
+    },
+    "author": "Ali Alidoust <ali.alidoust@gmail.com>",
+    "license": "",
+    "bugs": {
+
+    },
+    "homepage": "",
+    "devDependencies": {
+        "typescript": "^2.0.3"
+    }
+}

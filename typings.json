@@ -1,5 +1,9 @@
 {
-    "dependencies": {},
-    "devDependencies": {},
-    "ambientDevDependencies": {}
+    "name": "frida",
+    "homepage": "http://www.frida.re/",
+    "ambient": true,
+    "version": "7.2.7",
+    "files": [
+        "frida.d.ts"
+    ]   
 }

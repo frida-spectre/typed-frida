@@ -1,11 +1,10 @@
 {
     "compilerOptions": {
-        "target": "es6",
         "module": "commonjs",
-        "sourceMap": true,
-        "emitDecoratorMetadata": true,
-        "experimentalDecorators": true,
-        "removeComments": false,
+        "target": "es6",
         "noImplicitUseStrict": true
-    }
+    },
+    "files": [
+        "frida.d.ts"
+    ]
 }
